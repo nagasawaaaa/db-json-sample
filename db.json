@@ -1,0 +1,256 @@
+{
+  "contents": [
+    {
+      "data": [
+        {
+          "data": "20211005000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルA",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "1"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "data": "20210925000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルB",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "2"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "data": "20210920000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルC",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "3"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "data": "20210915000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルD",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "1",
+            "2"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "data": "20210910000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルE",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "1",
+            "3"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "data": "20210905000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルF",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "2",
+            "3"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "data": "20210830000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルG",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "1"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "data": "20210825000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルH",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "2"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "data": "20210820000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルI",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "3"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    },
+    {
+      "data": [
+        {
+          "data": "20210815000000",
+          "id": "15",
+          "label": "公開日",
+          "type": "date_only"
+        },
+        {
+          "data": "記事タイトルJ",
+          "label": "タイトル",
+          "type": "single_line_text"
+        },
+        {
+          "data": [
+            "1",
+            "3"
+          ],
+          "id": "2",
+          "label": "カテゴリ",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "basename": "entertainment",
+      "label": "エンタメ"
+    },
+    {
+      "id": 2,
+      "basename": "sport",
+      "label":  "スポーツ"
+    }
+  ,
+    {
+      "id": 3,
+      "basename": "business",
+      "label":  "経済"
+    }
+  ]
+}
