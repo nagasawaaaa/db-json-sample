@@ -4,12 +4,13 @@
       "data": [
         {
           "data": "20211005000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルA",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
@@ -27,12 +28,13 @@
       "data": [
         {
           "data": "20210925000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルB",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
@@ -50,12 +52,13 @@
       "data": [
         {
           "data": "20210920000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルC",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
@@ -73,12 +76,13 @@
       "data": [
         {
           "data": "20210915000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルD",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
@@ -97,12 +101,13 @@
       "data": [
         {
           "data": "20210910000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルE",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
@@ -121,12 +126,13 @@
       "data": [
         {
           "data": "20210905000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルF",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
@@ -145,12 +151,13 @@
       "data": [
         {
           "data": "20210830000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルG",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
@@ -168,12 +175,13 @@
       "data": [
         {
           "data": "20210825000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルH",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
@@ -191,12 +199,13 @@
       "data": [
         {
           "data": "20210820000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルI",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
@@ -214,12 +223,13 @@
       "data": [
         {
           "data": "20210815000000",
-          "id": "15",
+          "id": "1",
           "label": "公開日",
           "type": "date_only"
         },
         {
           "data": "記事タイトルJ",
+          "id": "3",
           "label": "タイトル",
           "type": "single_line_text"
         },
