@@ -23,6 +23,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": true,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     },
@@ -49,6 +55,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": false,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     },
@@ -75,6 +87,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": false,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     },
@@ -102,6 +120,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": true,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     },
@@ -129,6 +153,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": true,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     },
@@ -156,6 +186,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": false,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     },
@@ -182,6 +218,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": true,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     },
@@ -208,6 +250,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": true,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     },
@@ -234,6 +282,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": false,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     },
@@ -261,6 +315,12 @@
           "id": "2",
           "label": "カテゴリ",
           "type": "categories"
+        },
+        {
+          "data": true,
+          "id": "4",
+          "label": "useBasename",
+          "type": "boolean"
         }
       ]
     }
