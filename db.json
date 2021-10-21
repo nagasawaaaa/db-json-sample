@@ -27,8 +27,8 @@
         {
           "data": true,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     },
@@ -59,8 +59,8 @@
         {
           "data": false,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     },
@@ -91,8 +91,8 @@
         {
           "data": false,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     },
@@ -124,8 +124,8 @@
         {
           "data": true,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     },
@@ -157,8 +157,8 @@
         {
           "data": true,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     },
@@ -190,8 +190,8 @@
         {
           "data": false,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     },
@@ -222,8 +222,8 @@
         {
           "data": true,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     },
@@ -254,8 +254,8 @@
         {
           "data": true,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     },
@@ -286,8 +286,8 @@
         {
           "data": false,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     },
@@ -319,8 +319,8 @@
         {
           "data": true,
           "id": "4",
-          "label": "useBasename",
-          "type": "boolean"
+          "label": "出力されるhtmlにbasenameを使用する",
+          "type": "checkbox"
         }
       ]
     }
