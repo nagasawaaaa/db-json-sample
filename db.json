@@ -25,7 +25,7 @@
           "type": "categories"
         },
         {
-          "data": true,
+          "data": "true",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
@@ -57,7 +57,7 @@
           "type": "categories"
         },
         {
-          "data": false,
+          "data": "false",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
@@ -89,7 +89,7 @@
           "type": "categories"
         },
         {
-          "data": false,
+          "data": "false",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
@@ -122,7 +122,7 @@
           "type": "categories"
         },
         {
-          "data": true,
+          "data": "true",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
@@ -155,7 +155,7 @@
           "type": "categories"
         },
         {
-          "data": true,
+          "data": "true",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
@@ -188,7 +188,7 @@
           "type": "categories"
         },
         {
-          "data": false,
+          "data": "false",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
@@ -220,7 +220,7 @@
           "type": "categories"
         },
         {
-          "data": true,
+          "data": "true",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
@@ -252,7 +252,7 @@
           "type": "categories"
         },
         {
-          "data": true,
+          "data": "true",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
@@ -284,7 +284,7 @@
           "type": "categories"
         },
         {
-          "data": false,
+          "data": "false",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
@@ -317,7 +317,7 @@
           "type": "categories"
         },
         {
-          "data": true,
+          "data": "true",
           "id": "4",
           "label": "出力されるhtmlにbasenameを使用する",
           "type": "checkbox"
